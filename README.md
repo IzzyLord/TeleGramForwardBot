@@ -1,4 +1,4 @@
-# Telegram Forward Script
+# Telegram Forward Script Bot
 😇 <i>This is a Script to Forward Large Number of Files to Another Telegram Channel. Star එකක් දාල fork එකක් ගහපියව් 🥴, And Follow me also</i>
 
 If You Try to Forward Very Large Number of Files Ur Telegram Account will be Banned. We cant Responsible for It. 😴
@@ -21,7 +21,7 @@ If You Try to Forward Very Large Number of Files Ur Telegram Account will be Ban
 
 <i>Click below button. ASAP</i>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IzzyLord/TeleGramForwardBot)
 
 ## Custom captions to files
 
@@ -42,7 +42,7 @@ If You Try to Forward Very Large Number of Files Ur Telegram Account will be Ban
 ## License
 ```
 TGForward, An Telegram Bot Project
-Copyright (c) 2021 Anjana Madu and Amarnath CDJ <https://github.com/AnjanaMadu>
+Copyright (c) 2021 Izzy Lord and Amarnath CDJ <https://github.com/IzzyLord>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by

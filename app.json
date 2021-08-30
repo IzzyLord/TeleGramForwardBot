@@ -1,5 +1,5 @@
 {
-      "name": "Channel Forward",
+      "name": "TeleGram Forward",
       "description": "A script to forward large number of files to another telegram channel",
       "logo": "https://telegra.ph/file/944a41db18eda321b075a.png",
    "env": {
@@ -39,7 +39,7 @@
          "value": ""
       }
    },
-   "repository": "https://github.com/Anjana-Ma/ChannelForward",
+   "repository": "https://github.com/IzzyLord/TeleGramForwardBot",
    "buildpacks": [
     {
       "url": "heroku/python"
